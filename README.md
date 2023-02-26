@@ -32,7 +32,7 @@ To challenge myself, this project was coded using the Python base package only (
 4. Generate dictionary by calling make_dict
     - (protein name) : (protein length)
 5. Calculate number of proteins and relative frequency of proteins in each bin by calling identify_bin
-6. Calculate cumilitive frequency of proteins by calling cumilative_sum
+6. Calculate cumilative frequency of proteins by calling cumilative_sum
 7. Generate new dictionary based on binned data
     - (cur bin) : [ (protein length) , (relative frequency of occurance in the human proteome), (cumilitive frequency) ]
 9. Display output in commend window
