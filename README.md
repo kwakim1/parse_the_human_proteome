@@ -1,5 +1,6 @@
 # parse_the_human_proteome
-A Python script to parse the human proteome by molecular size and visualize results
+A Python script to parse the human proteome by molecular size and visualize results.
+![alt text](https://ibb.co/tMQWfgw)
 
 ## Steps Performed
 1. Set parameters
