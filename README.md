@@ -21,7 +21,7 @@ To challenge myself, this project was coded using the Python base package only (
         1. Desired lower bound of protein lengths: (e.g. 0 residues)
         2. Desired upper bound of protein lengths: (e.g. 1500 residues)
         3. Desired bin width: (e.g. 50 residues)
-            _*Note*: Please enter only the integer, not the string "residues"_
+            - *Note*: Please enter only the integer, not the string "residues"
 3. Define helper functions
     - make_dict
         - Parses the .fasta file, isolating the protein name from the molecular sequence
