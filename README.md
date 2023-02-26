@@ -4,7 +4,7 @@ A Python script to parse and bin proteins in the human proteome by molecular siz
 ![alt_text](https://i.ibb.co/fYqPRfV/Num-Prot-0-1650-binwidth-50.png)
 
 ## Notes
-To challenge myself, this project was coded using the Python base package only (no libraries). However, to visualize results, matplotlib.pyplot was used to generate plots.
+To challenge myself, this project was coded using the Python base package only (no libraries). However, to visualize results, matplotlib.pyplot was used to generate figures.
 
 ## Requirements
 1. Python 3
