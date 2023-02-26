@@ -1,7 +1,8 @@
 # parse_the_human_proteome
 A Python script to parse the human proteome by molecular size and visualize results.
 
-(hello)![image](https://user-images.githubusercontent.com/106612858/221431855-81480931-e43a-4e9e-a9ee-395a1b399017.png)
+![alt_text](https://i.ibb.co/fYqPRfV/Num-Prot-0-1650-binwidth-50.png)
+
 
 ## Steps Performed
 1. Set parameters
