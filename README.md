@@ -1,5 +1,5 @@
 # parse_the_human_proteome
-A Python script to parse and bin proteins in the human proteome by molecular size and visualize results.
+A Python script to parse and bin proteins in the human proteome by protein length and visualize results.
 
 ![alt_text](https://i.ibb.co/fYqPRfV/Num-Prot-0-1650-binwidth-50.png)
 
